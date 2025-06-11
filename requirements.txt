@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+jinja2
+requests
+difflib2
+psycopg2-binary
